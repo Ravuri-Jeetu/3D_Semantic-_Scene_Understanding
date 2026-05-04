@@ -1,0 +1,6 @@
+{
+    "Total Localized Objects": 11,
+    "Mean Reprojection Error (MRE)": "1.2339 px",
+    "Temporal Drift (Avg)": "0.5945 units/frame",
+    "Normalized Semantic Accuracy": "63.64%"
+}
